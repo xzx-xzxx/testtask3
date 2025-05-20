@@ -1,0 +1,7 @@
+sender_keypair_path: "./devnet_sender_keypair.json"
+recipient_address: "HuLEd9iJpYQGCcqYHtUq6hVvBsfHehub5HcF7U2ryWS8"
+rpc_url: "https://api.devnet.solana.com"
+geyser_url: "grpc.ny.shyft.to"
+geyser_x_token: "b2b972c6-fff2-4b5c-aac9-375c6984b80e"
+transfer_amount_lamports: 1
+geyser_ca_cert_path: "./shyft_ca.pem"
